@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/HTML/TestPage.html" line="28" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30095c82-c393-4e67-aff1-070e0b36df66" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,7 +12,83 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/Documentation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/Gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/Projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML/Silent_Cry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HTML/TestPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>empowerment</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,14 +102,24 @@
         <option value="$PROJECT_DIR$/EDSI_Website/vendor/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/EDSI_Website/vendor/bootstrap/css/bootstrap-grid.css" />
         <option value="$PROJECT_DIR$/EDSI_Website/vendor/bootstrap/css/bootstrap-reboot.css" />
+        <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/HTML/Home.html" />
+        <option value="$PROJECT_DIR$/HTML/Contact Us.html" />
+        <option value="$PROJECT_DIR$/HTML/About Us.html" />
+        <option value="$PROJECT_DIR$/HTML/Documentation.html" />
+        <option value="$PROJECT_DIR$/HTML/Gallery.html" />
+        <option value="$PROJECT_DIR$/HTML/Projects.html" />
+        <option value="$PROJECT_DIR$/HTML/Silent_Cry.html" />
+        <option value="$PROJECT_DIR$/HTML/index.html" />
+        <option value="$PROJECT_DIR$/HTML/TestPage.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-37" />
+    <option name="y" value="-18" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -42,8 +131,46 @@
         <subPane>
           <expand>
             <path>
-              <item name="EDSI_Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EDSI_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="PDF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDSI-Website-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDSI-Website-master" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -52,6 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -59,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\psharma\Desktop\EDSI-Website-master\PDF" />
       <recent name="C:\Users\psharma\Downloads\startbootstrap-portfolio-item-gh-pages\EDSI_Website\HTML" />
     </key>
   </component>
@@ -87,16 +216,29 @@
       <workItem from="1548764790655" duration="2460000" />
       <workItem from="1548767370382" duration="6000" />
       <workItem from="1548772257061" duration="48000" />
+      <workItem from="1548920669060" duration="822000" />
+      <workItem from="1549011855002" duration="183000" />
+      <workItem from="1549018540473" duration="1097000" />
+      <workItem from="1549021107515" duration="105000" />
+      <workItem from="1550574726676" duration="520000" />
+      <workItem from="1551784559979" duration="4270000" />
+      <workItem from="1552300639130" duration="7399000" />
+      <workItem from="1552312820940" duration="7393000" />
+      <workItem from="1552582428880" duration="626000" />
+      <workItem from="1553166343839" duration="4000" />
+      <workItem from="1553856942939" duration="1279000" />
+      <workItem from="1554998148988" duration="3110000" />
+      <workItem from="1560173562315" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2514000" />
+    <option name="totallyTimeSpent" value="29938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -153,5 +295,68 @@
     <entry file="file://$PROJECT_DIR$/EDSI_Website/vendor/bootstrap/css/bootstrap.css" />
     <entry file="file://$PROJECT_DIR$/EDSI_Website/css/EDSI_Design.css" />
     <entry file="file://$PROJECT_DIR$/EDSI_Website/HTML/Home.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/About Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Contact Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Documentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/Silent_Cry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/TestPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
